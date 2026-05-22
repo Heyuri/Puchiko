@@ -10,7 +10,7 @@ Puchiko is a PHP package that provides a variety of QoL features that arent avai
 1. Fetching the dimensions of compressed Shockwave Flash files
 1. Trove of string checking, normalization, and manipulation functions (building anchor tags from plain URLs and more)
 1. Function for building clean URLs from complex multi-parameter form inputs
-1. Set of functions for interfacting with the file system. Including a way to remove GPS data from jpeg images using `exiftool` and creating video thumbnails using ffmpeg
+1. Set of functions for interfacting with the file system. Including a way to remove GPS data from jpeg images using `exiftool` and creating video thumbnails using `ffmpeg`
 1. Json respone functions along with cache controls, useful for API endpoints.
 
 Its designed for the collection of scripts maintained by Heyuri (kokonotsuba, TWINTAIL UPLOADER, ksphp+) but can be deployed on any project. Its particularly useful on a script focused on user-generated content, as sanitization and DOM code is rarely ever needed to be different from project-to-project.
