@@ -1,4 +1,5 @@
 # Puchiko
+<img width="248" height="182" alt="nyu" src="https://github.com/user-attachments/assets/8e117566-2828-4b02-8b62-61a227a7ff61" />
 
 ## Introduction
 Ever started a new PHP project and dread re-implementing basic, repetitive code every damn time? Ever copy-pasted code snippets and files from one project to the next? Look no further nyu.
