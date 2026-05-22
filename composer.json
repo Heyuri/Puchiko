@@ -1,0 +1,27 @@
+{
+    "name": "heyuri/puchiko",
+    "description": "Puchiko utility library",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.4",
+        "ext-json": "*"
+    },
+    "suggest": {
+        "ffmpeg/ffmpeg": "Required for getVideoDimensions() — install the ffmpeg system binary",
+        "exiftool": "Required for removeGpsDataFromJpeg() — install the exiftool system binary"
+    },
+    "autoload": {
+        "files": [
+            "array.php",
+            "background.php",
+            "file.php",
+            "html.php",
+            "json.php",
+            "misc.php",
+            "normalize.php",
+            "request.php",
+            "strings.php"
+        ]
+    }
+}
