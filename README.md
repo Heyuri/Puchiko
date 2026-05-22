@@ -19,7 +19,7 @@ Its designed for the collection of scripts maintained by Heyuri (kokonotsuba, TW
 Some functions in Puchiko do require external tools, namely `ffmpeg` and `exiftool`, you can intall them from your operating system's package manager.
 
 To include this in your project you just need to add the following entries to composer.json:
-- Add `heyuri/puchiko": "dev-main"` to `require` 
+- Add `"heyuri/puchiko": "dev-main"` to `require` 
 - Add `"url": "https://github.com/Heyuri/Puchiko"` to `repositories`
 
 It should look like this:
