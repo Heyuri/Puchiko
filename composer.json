@@ -12,9 +12,11 @@
         "exiftool": "Required for removeGpsDataFromJpeg() — install the exiftool system binary"
     },
     "autoload": {
+        "psr-4": {
+            "Puchiko\\": ""
+        },
         "files": [
             "array.php",
-            "background.php",
             "file.php",
             "html.php",
             "json.php",
