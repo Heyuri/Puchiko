@@ -1,6 +1,6 @@
 <?php
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 /**
  * Trait for validating ORDER BY fields against an allowlist.

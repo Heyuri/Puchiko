@@ -1,6 +1,6 @@
 <?php
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 trait ValidatesIdentifiersTrait {
 	protected static function validateTableName(string $name): void {

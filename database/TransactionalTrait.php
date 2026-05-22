@@ -1,6 +1,6 @@
 <?php
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 /**
  * Trait providing a convenience wrapper for transactional execution.

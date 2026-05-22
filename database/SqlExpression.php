@@ -1,6 +1,6 @@
 <?php
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 /**
  * Represents a raw SQL expression that should be embedded directly into a query

@@ -1,10 +1,9 @@
 <?php
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 use Exception;
 use InvalidArgumentException;
-use Kokonotsuba\error\BoardException;
 use PDO;
 use PDOException;
 use RuntimeException;

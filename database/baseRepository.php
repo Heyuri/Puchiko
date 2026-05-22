@@ -1,6 +1,6 @@
 <?php
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 /** Base repository providing shared CRUD and query helpers for all concrete repositories. */
 class baseRepository {

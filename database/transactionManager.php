@@ -14,7 +14,7 @@
  *
  */
 
-namespace Kokonotsuba\database;
+namespace Puchiko\database;
 
 use Throwable;
 
