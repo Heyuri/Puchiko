@@ -14,7 +14,7 @@ namespace Puchiko\template;
  * - Automatic HTML entity escaping for security
  *
  * Usage:
- *   $engine = new TemplateEngine('source/templates');
+ *   $engine = new templateEngine('source/templates');
  *   $engine->bind(['SITE_NAME' => 'My Site', 'BODY' => '<p>Hello</p>']);
  *   echo $engine->render('base.tpl');
  */
